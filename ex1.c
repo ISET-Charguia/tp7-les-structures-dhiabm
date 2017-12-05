@@ -11,7 +11,7 @@ int main()
 {
 
 pc p1,p2;
-    printf("donner numéro de serie \n");
+    printf("donner numÃ©ro de serie \n");
     scanf("%s",&p1.serie);
     printf("donner type de cpu \n");
     scanf("%s",&p1.typecpu);
@@ -20,7 +20,7 @@ pc p1,p2;
     printf("donner taille de memoire \n");
     scanf("%d",&p1.taille);
 
-    printf("donner numéro de serie \n");
+    printf("donner numÃ©ro de serie \n");
     scanf("%s",&p2.serie);
     printf("donner type de cpu \n");
     scanf("%s",&p2.typecpu);
